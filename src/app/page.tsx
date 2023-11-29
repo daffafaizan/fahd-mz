@@ -5,7 +5,7 @@ export default function Home() {
         <span className="text-xl lg:text-[50px] font-medium tracking-widest">
           Fahd Muhammad Zahid
         </span>
-        <span className="font-light">a student</span>
+        <span className="md:mt-5 font-light">a student</span>
       </div>
     </main>
   );
